@@ -750,5 +750,3 @@ return (
 
           <div className="field full">  
             <label htmlFor="gift
-
-Вот этот код на сайт Я закинул мне просто соо типо название и все сайта нет
