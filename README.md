@@ -1,2 +1,0 @@
-# GIFTSFOR
-GIFTS FOR - NFT 
